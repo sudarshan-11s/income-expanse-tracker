@@ -1,0 +1,195 @@
+{
+  "users": [
+    {
+      "_id": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "budget": 10000,
+      "createdAt": "2026-04-03T20:58:16.818Z",
+      "updatedAt": "2026-04-03T20:58:16.818Z",
+      "name": "sudarshan malode",
+      "email": "malodesudarshan@gmail.com",
+      "password": "$2b$10$q1AMUcnfit9X5xQt/R/dCu3fNN3g2eDxVjppvALrjLWxqsLGx1qcm"
+    }
+  ],
+  "transactions": [
+    {
+      "_id": "seed-1-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Salary credit",
+      "description": "Monthly salary from Orbit Labs",
+      "amount": 7800,
+      "category": "Salary",
+      "type": "income",
+      "date": "2026-02-28"
+    },
+    {
+      "_id": "seed-2-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Rent payment",
+      "description": "Apartment rent for March",
+      "amount": 2400,
+      "category": "Housing",
+      "type": "expense",
+      "date": "2026-03-01"
+    },
+    {
+      "_id": "seed-3-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Groceries",
+      "description": "Weekly grocery basket",
+      "amount": 180,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-03-02"
+    },
+    {
+      "_id": "seed-4-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Utility bill",
+      "description": "Electricity and water charges",
+      "amount": 320,
+      "category": "Utilities",
+      "type": "expense",
+      "date": "2026-03-04"
+    },
+    {
+      "_id": "seed-5-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Client payout",
+      "description": "Landing page freelance invoice",
+      "amount": 950,
+      "category": "Freelance",
+      "type": "income",
+      "date": "2026-03-06"
+    },
+    {
+      "_id": "seed-6-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Metro pass",
+      "description": "Monthly metro card recharge",
+      "amount": 120,
+      "category": "Transport",
+      "type": "expense",
+      "date": "2026-03-08"
+    },
+    {
+      "_id": "seed-7-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Team lunch",
+      "description": "Lunch with design team",
+      "amount": 210,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-03-11"
+    },
+    {
+      "_id": "seed-8-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Health checkup",
+      "description": "Routine annual health package",
+      "amount": 450,
+      "category": "Healthcare",
+      "type": "expense",
+      "date": "2026-03-14"
+    },
+    {
+      "_id": "seed-9-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Dividend payout",
+      "description": "Quarterly ETF dividends",
+      "amount": 670,
+      "category": "Investment",
+      "type": "income",
+      "date": "2026-03-18"
+    },
+    {
+      "_id": "seed-10-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Concert tickets",
+      "description": "Weekend live music event",
+      "amount": 360,
+      "category": "Entertainment",
+      "type": "expense",
+      "date": "2026-03-21"
+    },
+    {
+      "_id": "seed-11-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Office setup",
+      "description": "Monitor arm and desk accessories",
+      "amount": 820,
+      "category": "Shopping",
+      "type": "expense",
+      "date": "2026-03-25"
+    },
+    {
+      "_id": "seed-12-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Performance bonus",
+      "description": "Quarter-end performance bonus",
+      "amount": 1450,
+      "category": "Salary",
+      "type": "income",
+      "date": "2026-03-28"
+    },
+    {
+      "_id": "seed-13-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Rent payment",
+      "description": "Apartment rent for April",
+      "amount": 2400,
+      "category": "Housing",
+      "type": "expense",
+      "date": "2026-04-01"
+    },
+    {
+      "_id": "seed-14-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Groceries",
+      "description": "Fresh produce and pantry refill",
+      "amount": 230,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-04-02"
+    },
+    {
+      "_id": "seed-15-98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z",
+      "user": "98ce0433-4a65-4e4f-b0df-22077af91ffb",
+      "title": "Weekend trip",
+      "description": "Train tickets and hotel deposit",
+      "amount": 540,
+      "category": "Travel",
+      "type": "expense",
+      "date": "2026-04-03"
+    }
+  ]
+}
